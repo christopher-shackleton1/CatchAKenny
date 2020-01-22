@@ -13,6 +13,7 @@
 		2487E39123D7CEF9007ACD79 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2487E38F23D7CEF9007ACD79 /* Main.storyboard */; };
 		2487E39323D7CEFA007ACD79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2487E39223D7CEFA007ACD79 /* Assets.xcassets */; };
 		2487E39623D7CEFA007ACD79 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2487E39423D7CEFA007ACD79 /* LaunchScreen.storyboard */; };
+		2487E39E23D7CFDE007ACD79 /* kenny.png in Resources */ = {isa = PBXBuildFile; fileRef = 2487E39D23D7CFDD007ACD79 /* kenny.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2487E39223D7CEFA007ACD79 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2487E39523D7CEFA007ACD79 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2487E39723D7CEFA007ACD79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2487E39D23D7CFDD007ACD79 /* kenny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kenny.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2487E38B23D7CEF9007ACD79 /* SceneDelegate.swift */,
 				2487E38D23D7CEF9007ACD79 /* ViewController.swift */,
 				2487E38F23D7CEF9007ACD79 /* Main.storyboard */,
+				2487E39D23D7CFDD007ACD79 /* kenny.png */,
 				2487E39223D7CEFA007ACD79 /* Assets.xcassets */,
 				2487E39423D7CEFA007ACD79 /* LaunchScreen.storyboard */,
 				2487E39723D7CEFA007ACD79 /* Info.plist */,
@@ -128,6 +131,7 @@
 				2487E39623D7CEFA007ACD79 /* LaunchScreen.storyboard in Resources */,
 				2487E39323D7CEFA007ACD79 /* Assets.xcassets in Resources */,
 				2487E39123D7CEF9007ACD79 /* Main.storyboard in Resources */,
+				2487E39E23D7CFDE007ACD79 /* kenny.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
